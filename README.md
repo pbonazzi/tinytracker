@@ -18,6 +18,8 @@ in IEEE Sensor 2023 (Lecture Presentation)
 ## 🚀 TL;DR quickstart 🚀
 1. Install requirements
 ```
+python3 -m venv venv
+source venv/bin/activate
 pip3 install -r requirements.txt
 ```
 2. Install [tensorflow](https://www.tensorflow.org/install)
