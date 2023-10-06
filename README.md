@@ -1,4 +1,6 @@
 #  👀 TinyTracker: Gaze Estimation on Edge Devices  👀
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/tinytracker-ultra-fast-and-ultra-low-power/gaze-estimation-on-gazecapture)](https://paperswithcode.com/paper/tinytracker-ultra-fast-and-ultra-low-power)
+
 ### [📹 Video](https://youtube.com) | [📜 Paper](https://arxiv.org/abs/2307.07813) | [🗂️ Data](https://gazecapture.csail.mit.edu/)
 
 [TinyTracker: Ultra-Fast and Ultra-Low-Power Edge Vision In-Sensor for Gaze Estimation](https://arxiv.org/abs/2307.07813)  
