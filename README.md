@@ -132,7 +132,7 @@ The project structured as following :
   title={TinyTracker: Ultra-Fast and Ultra-Low-Power Edge Vision In-Sensor for Gaze Estimation},
   author={Pietro Bonazzi, Thomas Ruegg, Sizhen Bian, Yawei Li, Michele Magno},
   year={2023},
-  booktitle={IEEE Journal Sensor},
+  booktitle={IEEE Sensor},
 }
 ```
 
