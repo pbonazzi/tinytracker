@@ -128,18 +128,20 @@ The project structured as following :
 ## ✉️ Citation ❤️
 
 ```
-@inproceedings{bonazzi2023tinytracker,
-  title={TinyTracker: Ultra-Fast and Ultra-Low-Power Edge Vision In-Sensor for Gaze Estimation},
-  author={Pietro Bonazzi, Thomas Ruegg, Sizhen Bian, Yawei Li, Michele Magno},
+@INPROCEEDINGS{bonazzi2023tinytracker,
+  author={Bonazzi, Pietro and Rüegg, Thomas and Bian, Sizhen and Li, Yawei and Magno, Michele},
+  booktitle={2023 IEEE SENSORS}, 
+  title={TinyTracker: Ultra-Fast and Ultra-Low-Power Edge Vision In-Sensor for Gaze Estimation}, 
   year={2023},
-  booktitle={IEEE Sensor},
-}
+  pages={1-4},
+  keywords={Energy consumption;Computer vision;Machine vision;Estimation;AI accelerators;Vision sensors;Cameras},
+  doi={10.1109/SENSORS56945.2023.10325167}}
 ```
 
 ```
 @inproceedings{ruegg2023tinytrackers,
   title={Gaze Estimation on Spresense},
-  author={Thomas Ruegg, Pietro Bonazzi, Andrea Ronco},
+  author={Thomas Rüegg, Pietro Bonazzi, Andrea Ronco},
   year={2023},
   booktitle={Sony Challenge},
 }
